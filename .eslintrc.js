@@ -26,7 +26,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: [".eslintrc.js"],
+      files: [".eslintrc.js", "snowpack.config.mjs"],
       env: {
         node: true,
       },
