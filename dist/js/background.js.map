@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../lib/background.ts"],
+  "sourcesContent": ["console.log('this is the background file');\n"],
+  "mappings": "MAAA,QAAQ,IAAI",
+  "names": []
+}
